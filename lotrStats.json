@@ -1,8 +1,35 @@
 [
-    {
-        "Name": "Frodo Baggins",
+    
+        {"Name": "Frodo Baggins",
         "location": "The Shire",
         "weapon": "Sting",
+        "imageUrl": "https://static.wikia.nocookie.net/pjmidearthfilms/images/3/34/Frodo.jpg/revision/latest?cb=20200725035857"},
+
+
+
+
+        {"Name": "Aragorn",
+        "location": "Gondor",
+        "weapon": "Two hand sword",
+        "imageUrl": "https://static.wikia.nocookie.net/pjmidearthfilms/images/3/34/Frodo.jpg/revision/latest?cb=20200725035857"},
+
+
+
+
+        {"Name": "Arwen",
+        "location": "Rivendell",
+        "weapon": "Bow",
+        "imageUrl": "https://static.wikia.nocookie.net/pjmidearthfilms/images/3/34/Frodo.jpg/revision/latest?cb=20200725035857"},
+
+
+
+
+        {"Name": "Gandolf",
+        "location": "Unknown",
+        "weapon": "Staff",
         "imageUrl": "https://static.wikia.nocookie.net/pjmidearthfilms/images/3/34/Frodo.jpg/revision/latest?cb=20200725035857"
         }
+
+
+
 ]
